@@ -1,8 +1,8 @@
 Add below services
 
 Gateway: done
-Transaction Ingestion
-Fraud Detection - Core Engine
-Rule Management
-Decision Engine
-Audit & Reporting - future scope
+Transaction Ingestion: done
+Fraud Detection - Core Engine: done
+Rule Management: done
+Decision Engine: done
+Audit & Reporting - future scope: done

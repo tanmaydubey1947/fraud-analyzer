@@ -12,6 +12,10 @@
 	<modules>
 		<module>api-gateway</module>
 		<module>transaction-ingestion</module>
+		<module>core-engine</module>
+		<module>rule-engine</module>
+		<module>decision-engine</module>
+		<module>audit-reporting-engine</module>
 	</modules>
 
 	<groupId>com.fraud-payment-analyzer</groupId>
