@@ -16,6 +16,7 @@
 		<module>rule-engine</module>
 		<module>decision-engine</module>
 		<module>audit-reporting-engine</module>
+		<module>identity-service</module>
 	</modules>
 
 	<groupId>com.fraud-payment-analyzer</groupId>
